@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30103" started-at="2019-03-23T16:23:38 CST" finished-at="2019-03-23T16:24:09 CST">
+    <groups>
+    </groups>
+    <test name="TestDebug" duration-ms="30103" started-at="2019-03-23T16:23:38 CST" finished-at="2019-03-23T16:24:09 CST">
+      <class name="com.TestSpring.TestMain">
+        <test-method status="PASS" signature="testYun()[pri:0, instance:com.TestSpring.TestMain@174d20a]" name="testYun" duration-ms="30014" started-at="2019-03-23T16:23:39 CST" finished-at="2019-03-23T16:24:09 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYun -->
+      </class> <!-- com.TestSpring.TestMain -->
+    </test> <!-- TestDebug -->
+  </suite> <!-- Suite -->
+</testng-results>
